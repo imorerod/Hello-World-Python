@@ -1,7 +1,17 @@
 
-character_name = 'Tom'
-character_age = '35'
-print('There once was a man named ' + character_name + ', ')
-print('he was ' + character_age + ' years old. ')
-print('He really liked the name ' + character_name + ', ')
-print('but did not like being ' + character_age + '.')
+# \n creates a line break
+print('Uncle\nIsaac')
+
+# \' creates a quotation in the middle of the string
+print('Uncle\'Isaac')
+
+phrase = 'Uncle Isaac'
+print(phrase + ' is cool!')
+
+# lower is a built-in function
+print(phrase.lower())
+
+# 'is' is an evaluator that produces boolean
+print(phrase.islower())
+
+
