@@ -1,4 +1,5 @@
 # pulls in many math functions
+# 'math' is a 'module'
 from math import *
 
 print(2)
