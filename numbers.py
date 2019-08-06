@@ -25,10 +25,10 @@ print(abs(my_num))
 print(pow(3, 2))
 
 # tells which num is the largest
-print(max(4,6))
+print(max(4, 6))
 
 # tells which num is the smallest
-print(min(4,6))
+print(min(4, 6))
 
 # round the num
 print(round(4.453))
