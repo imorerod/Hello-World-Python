@@ -12,7 +12,15 @@ def say_hi(name, age):
 say_hi('Isaac', 27)
 say_hi('Morgan', 27)
 
-# return statements
+# Return Statements
+
+
+def cube(num):
+    return num*num*num
+
+
+result = cube(5)
+print(result)
 
 
 
