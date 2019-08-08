@@ -30,4 +30,10 @@ print(friends.count('Tyler'))
 # sort 'friends' list in ascending order
 friends.sort()
 
+# sort 'friends' list in descending order
+friends.reverse()
+
+# copies 'friends' list
+friends2 = friends.copy()
+
 
