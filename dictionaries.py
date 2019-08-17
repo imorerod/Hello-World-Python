@@ -14,3 +14,6 @@ monthConversions = {
     'Dec': 'December',
 }
 
+# default value when an invalid key
+print(monthConversions.get('Luv', 'Not a valid Key'))
+
